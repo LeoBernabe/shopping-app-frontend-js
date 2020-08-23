@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Beauty Product",
+      "productDescription": "Lorem ipsum dolor sit amet, et sea cibo sadipscing, ei quo quot mediocrem qualisque, ad mel laudem volumus fabellas.",
+      "productPrice": 343.09
+    }
+  ]
+}
